@@ -4,7 +4,11 @@ Este projeto é uma aplicação Full-Stack desenvolvida utilizando Spring Boot n
 
 ## 🎥Vídeo do projeto 
 
-[Gravando 2025-04-06 121057.mp4](..%2FGravando%202025-04-06%20121057.mp4)
+
+https://github.com/user-attachments/assets/1ec0c92f-0b73-4598-a8eb-f3389af54995
+
+
+
 
 ## 🚀 Tecnologias Utilizadas
 
